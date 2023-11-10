@@ -1,0 +1,4 @@
+# Message brokers
++ [Брокер сообщений](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BA%D0%B5%D1%80_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9#:~:text=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80%D0%BE%D0%B2%20%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9)
++ [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/companies/sberbank/articles/669456/)
++ [БРОКЕРЫ СООБЩЕНИЙ — ЧТО ЭТО, ИЗ ЧЕГО СОСТОЯТ, ПЛЮСЫ И МИНУСЫ: СРАВНИВАЕМ APACHE KAFKA, REDIS И RABBITMQ](https://academy.mediasoft.team/article/brokery-soobshenii-chto-eto-iz-chego-sostoyat-plyusy-i-minusy-sravnivaem-apache-kafka-redis-i-rabbitmq/)
