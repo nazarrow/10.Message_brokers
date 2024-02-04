@@ -1,6 +1,0 @@
-+ [kafka.apache.org](https://kafka.apache.org/)
-+ [Apache Kafka: основы технологии](https://habr.com/ru/companies/slurm/articles/550934/)
-+ [Почтальон в мире IT: для чего нужен брокер сообщений Apache Kafka и как он устроен](https://practicum.yandex.ru/blog/broker-soobsheniy-apache-kafka/)
-+ [Kafka за 20 минут. Ментальная модель и как с ней работать](https://habr.com/ru/companies/sbermarket/articles/738634/)
-+ [Знакомимся с архитектурой Apache Kafka](https://habr.com/ru/companies/otus/articles/725168/)
-+ [Работа Apache Kafka на примерах. Поднимаем Kafka Cluster используя docker-compose](https://habr.com/ru/articles/738874/)
